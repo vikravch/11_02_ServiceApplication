@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ServiceApplication</string>
+    <string name="button_get_time">get time</string>
+</resources>
